@@ -51,3 +51,13 @@
   <img src="https://img.shields.io/badge/Python-F3A6BD?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Algorithm-F3A6BD?style=for-the-badge">
 </p>
+<br>
+
+<h3 align="center">💌 About Me 💌</h3>
+
+<p align="center">
+  🎓 Computer Engineering Student<br>
+  🌸 Interested in Frontend & Backend Development<br>
+  🐶 Working on a Capstone Design Project<br>
+  📚 Studying Python, Java, Algorithm & CS Fundamentals
+</p>
