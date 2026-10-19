@@ -67,24 +67,15 @@
 
 ### 🌸 Projects 🌸
 
-#### 🐶 [개발하개 — 반려견 동반·건강 통합 서비스](/ri3un/dogev-capstone-tips) `진행 중`
+#### 🐶 [개발하개 — 반려견 동반·건강 통합 서비스](https://github.com/ri3un/dogev-capstone-tips) `진행 중`
 
 > 반려견 동반 장소 탐색부터 건강 기록까지 한 곳에서 관리할 수 있는 캡스톤 디자인 프로젝트
 
 - **기간** 2026.09 ~ 진행 중
 - **팀** 4인
 - **역할** 팀장
-- **주요 기능**
-  - 리뷰 분석을 통한 반려견 동반 장소 세부 조건 분류
-  - 실내·테라스·이동장·크기 제한 등의 이용 조건 제공
-  - 반려견 맞춤 산책 및 데이트 코스 추천
-  - 자연어로 입력한 일상 기록을 건강 기록으로 정리
-  - 월간 건강 상태 및 행동 패턴 PDF 리포트 생성
-  - 여러 LLM을 활용한 반려견 건강 상담
 
-🔗 [Repository](/ri3un/dogev-capstone-tips)
-
-<br>
+🔗 [Repository](https://github.com/ri3un/dogev-capstone-tips)
 
 #### 💰 SalaryApp — 아르바이트 급여 관리 Android 앱
 
@@ -103,7 +94,8 @@
 
 <br>
 
-#### ♻️ [Garbage Sorting — 쓰레기 분류 프로그램](/jwxyse/-garbage-sorting)
+
+#### ♻️ [Garbage Sorting — 쓰레기 분류 프로그램](https://github.com/jwxyse/-garbage-sorting)
 
 > C언어를 활용해 쓰레기의 종류를 분류하고 올바른 분리수거 방법을 안내하는 프로그램
 
@@ -115,13 +107,12 @@
   - 쓰레기별 올바른 분리수거 방법 안내
 - **Stack** C
 
-🔗 [Repository](/jwxyse/-garbage-sorting)
-
+🔗 [Repository](https://github.com/jwxyse/-garbage-sorting)
 ---
 
 ### 🐣 Study 🐣
 
-#### 🐍 [Codetree Algorithm Study](/jwxyse/codetree-TILs)
+#### 🐍 [Codetree Algorithm Study](https://github.com/jwxyse/codetree-TILs)
 
 > 코딩테스트 준비를 위해 Python으로 알고리즘 문제를 풀고 풀이 기록을 GitHub에 자동 저장하고 있습니다.
 
@@ -129,6 +120,6 @@
 - **Platform** Codetree
 - **목표** Python 기초 → 자료구조 · 알고리즘 → 코딩테스트 문제풀이
 
-🔗 [codetree-TILs](/jwxyse/codetree-TILs)
+🔗 [Repository](https://github.com/jwxyse/codetree-TILs)
 
 ---
