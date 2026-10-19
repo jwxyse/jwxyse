@@ -1,17 +1,25 @@
-## Hi there 👋
+<h1 align="center"> 💗JOOHEE💗 </h1>
 
-<!--
-**jwxyse/jwxyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   😻 Welcome to my GitHub 😻
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jwxyse)
+<h3 align="center">🫧 My GitHub Stats 🫧</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jwxyse&show_icons=true&theme=calm_pink&hide_border=true&locale=kr"
+    alt="Joohee's GitHub Stats"
+  />
+</p>
+
+<h3 align="center">📌 Most Used Languages </h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwxyse&layout=compact&theme=calm_pink&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
