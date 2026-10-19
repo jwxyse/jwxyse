@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 <h3 align="center">💗 My GitHub Activity 💗</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jwxyse&bg_color=fff5f8&color=d88ca4&line=f3a6bb&point=ec8eaa&area=true&area_color=fce1e9&hide_border=true"
-  />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jwxyse)
 </p>
