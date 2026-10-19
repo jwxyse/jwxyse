@@ -38,3 +38,16 @@
   <img src="https://img.shields.io/badge/Git-E58AA8?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-E58AA8?style=for-the-badge&logo=github&logoColor=white">
 </p>
+<br>
+
+<h3 align="center">🌷 Currently Learning 🌷</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Architecture-FADAE5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Operating%20System-FADAE5?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-F3A6BD?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Algorithm-F3A6BD?style=for-the-badge">
+</p>
