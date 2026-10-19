@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jwxyse&show_icons=true&locale=kr&bg_color=FFF7FA&title_color=E58AA8&text_color=8A6673&icon_color=F3A6BD&border_color=FADAE5"
+    src="https://github-readme-stats.vercel.app/api?username=jwxyse&show_icons=true&locale=en&bg_color=FFF7FA&title_color=E58AA8&text_color=8A6673&icon_color=F3A6BD&border_color=FADAE5"
     alt="Joohee's GitHub Stats"
   />
 </p>
