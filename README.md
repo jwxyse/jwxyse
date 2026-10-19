@@ -78,6 +78,8 @@
 
 🔗 [Repository](https://github.com/ri3un/dogev-capstone-tips)
 
+<br>
+
 #### 💰 SalaryApp — 아르바이트 급여 관리 Android 앱
 
 > 근무 기록부터 예상 급여와 목표 금액까지 한 번에 관리할 수 있는 Android 애플리케이션
