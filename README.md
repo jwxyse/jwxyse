@@ -108,7 +108,8 @@
 - **Stack** C
 
 🔗 [Repository](https://github.com/jwxyse/-garbage-sorting)
----
+
+<br>
 
 ### 🐣 Study 🐣
 
