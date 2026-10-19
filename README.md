@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">💗 My GitHub Activity 💗</h3>
-
-<p align="center">
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jwxyse)
-</p>
