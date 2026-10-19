@@ -63,3 +63,72 @@
   🐶 Working on a Capstone Design Project<br>
   📚 Studying Python, Java, Algorithm & CS Fundamentals
 </p>
+---
+
+### 🌸 Projects 🌸
+
+#### 🐶 [개발하개 — 반려견 동반·건강 통합 서비스](/ri3un/dogev-capstone-tips) `진행 중`
+
+> 반려견 동반 장소 탐색부터 건강 기록까지 한 곳에서 관리할 수 있는 캡스톤 디자인 프로젝트
+
+- **기간** 2026.09 ~ 진행 중
+- **팀** 4인
+- **역할** 팀장
+- **주요 기능**
+  - 리뷰 분석을 통한 반려견 동반 장소 세부 조건 분류
+  - 실내·테라스·이동장·크기 제한 등의 이용 조건 제공
+  - 반려견 맞춤 산책 및 데이트 코스 추천
+  - 자연어로 입력한 일상 기록을 건강 기록으로 정리
+  - 월간 건강 상태 및 행동 패턴 PDF 리포트 생성
+  - 여러 LLM을 활용한 반려견 건강 상담
+
+🔗 [Repository](/ri3un/dogev-capstone-tips)
+
+<br>
+
+#### 💰 SalaryApp — 아르바이트 급여 관리 Android 앱
+
+> 근무 기록부터 예상 급여와 목표 금액까지 한 번에 관리할 수 있는 Android 애플리케이션
+
+- **모바일프로그래밍 팀 프로젝트**
+- **역할** 팀장 · UX/UI 설계 · 발표
+- **주요 기능**
+  - 아르바이트 근무지 등록 및 관리
+  - 근무 시간 기록
+  - 예상 급여 자동 계산
+  - 목표 금액 및 달성률 확인
+  - 급여일 전날 알림
+  - 급여 통계 그래프 시각화
+- **Stack** Java · Android · MPAndroidChart
+
+<br>
+
+#### ♻️ [Garbage Sorting — 쓰레기 분류 프로그램](/jwxyse/-garbage-sorting)
+
+> C언어를 활용해 쓰레기의 종류를 분류하고 올바른 분리수거 방법을 안내하는 프로그램
+
+- **1학년 C프로그래밍 프로젝트**
+- **주요 기능**
+  - 회원가입 및 로그인
+  - `users.txt`를 활용한 파일 입출력
+  - 입력한 쓰레기의 종류 분류
+  - 쓰레기별 올바른 분리수거 방법 안내
+- **Stack** C
+
+🔗 [Repository](/jwxyse/-garbage-sorting)
+
+---
+
+### 🐣 Study 🐣
+
+#### 🐍 [Codetree Algorithm Study](/jwxyse/codetree-TILs)
+
+> 코딩테스트 준비를 위해 Python으로 알고리즘 문제를 풀고 풀이 기록을 GitHub에 자동 저장하고 있습니다.
+
+- **Language** Python
+- **Platform** Codetree
+- **목표** Python 기초 → 자료구조 · 알고리즘 → 코딩테스트 문제풀이
+
+🔗 [codetree-TILs](/jwxyse/codetree-TILs)
+
+---
