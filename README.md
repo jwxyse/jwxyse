@@ -63,7 +63,8 @@
   🐶 Working on a Capstone Design Project<br>
   📚 Studying Python, Java, Algorithm & CS Fundamentals
 </p>
----
+
+<hr>
 
 ### 🌸 Projects 🌸
 
