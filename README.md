@@ -66,7 +66,7 @@
 
 <hr>
 
-### 🌸 Projects 🌸
+### 💍 Projects 💍
 
 #### 🐶 [개발하개 — 반려견 동반·건강 통합 서비스](https://github.com/ri3un/dogev-capstone-tips) `진행 중`
 
