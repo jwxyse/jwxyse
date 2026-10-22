@@ -55,7 +55,7 @@
 </p>
 <br>
 
-<h3 align="center">💌 About Me 💌</h3>
+<h3 align="center">🐣 About Me 🐣</h3>
 
 <p align="center">
   🎓 Computer Engineering Student<br>
@@ -65,6 +65,27 @@
 </p>
 
 <hr>
+<div align="center">
+
+<h3>🌷 Portfolio 🌷</h3>
+
+<a href="https://velog.io/@여기에_벨로그아이디">
+  <img src="https://img.shields.io/badge/Velog-FFB6C1?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
+<a href="https://blog.naver.com/itakrdlfoty2">
+  <img src="https://img.shields.io/badge/Naver%20Blog-FFB6C1?style=for-the-badge&logo=naver&logoColor=white"/>
+</a>
+
+<br><br>
+
+<h3>💌 Contact 💌</h3>
+
+<a href="https://www.instagram.com/seoxoye/">
+  <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ### 💍 Projects 💍
 
