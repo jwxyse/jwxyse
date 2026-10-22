@@ -64,7 +64,7 @@
   📚 Studying Python, Java, Algorithm & CS Fundamentals
 </p>
 
-<hr>
+
 <div align="center">
 
 <h3>🌷 Portfolio 🌷</h3>
@@ -86,6 +86,8 @@
 </a>
 
 </div>
+
+<hr>
 
 ### 💍 Projects 💍
 
