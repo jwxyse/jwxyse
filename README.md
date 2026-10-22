@@ -69,7 +69,7 @@
 
 <h3>🌷 Portfolio 🌷</h3>
 
-<a href="https://velog.io/jwxyse.log">
+<a href="https://velog.io/@jwxyse.log">
   <img src="https://img.shields.io/badge/Velog-FFB6C1?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
 
