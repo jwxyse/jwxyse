@@ -97,7 +97,7 @@
 
 - **기간** 2026.09 ~ 진행 중
 - **팀** 4인
-- **역할** 팀장 · 백엔드
+- **역할** 팀장 · 기획 · 백엔드
 
 🔗 [Repository](https://github.com/ri3un/dogev-capstone-tips)
 
