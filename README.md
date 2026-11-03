@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src=<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jwxyse">
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jwxyse&layout=compact&bg_color=FFF7FA&title_color=E58AA8&text_color=8A6673&border_color=FADAE5"
     alt="Top Languages"
   />
 </p>
