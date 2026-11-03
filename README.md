@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jwxyse&show_icons=true&locale=en&bg_color=FFF7FA&title_color=E58AA8&text_color=8A6673&icon_color=F3A6BD&border_color=FADAE5"
+    src=["https://github-readme-stats.vercel.app/api?](https://github-stats-extended.vercel.app)username=jwxyse&show_icons=true&locale=en&bg_color=FFF7FA&title_color=E58AA8&text_color=8A6673&icon_color=F3A6BD&border_color=FADAE5"
     alt="Joohee's GitHub Stats"
   />
 </p>
@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwxyse&layout=compact&bg_color=FFF7FA&title_color=E58AA8&text_color=8A6673&border_color=FADAE5"
+    src=<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jwxyse">
     alt="Top Languages"
   />
 </p>
