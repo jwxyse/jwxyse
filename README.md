@@ -151,4 +151,16 @@
 
 🔗 [Repository](https://github.com/jwxyse/codetree-TILs)
 
+<br>
+
+#### 🗄️ [SQLD 자격증 공부](https://github.com/jwxyse/STUDY_NOTE/tree/main/SQLD)
+
+> SQLD 자격증 취득을 위해 데이터 모델링과 SQL 이론을 단원별로 정리하고, 시험 포인트와 틀린 문제를 기록하고 있습니다.
+
+- **과목** 데이터 모델링의 이해 · SQL 기본 및 활용
+- **시험** 2027년 3월 응시 예정
+- **목표** 이론 정리 → 단원 문제 오답 정리 → 기출 문제 풀이 → SQLD 합격
+
+🔗 [Study Note](https://github.com/jwxyse/STUDY_NOTE/tree/main/SQLD)
+
 ---
