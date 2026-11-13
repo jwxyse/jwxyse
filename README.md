@@ -130,7 +130,14 @@
   - Claude API로 뉴스 번역 · 요약
   - MCP 활용
   - 배포
-- **Stack** Next.js · Claude Code
+- **Stack**
+  - **Framework** Next.js · Node.js
+  - **Auth** Clerk
+  - **Database** Neon · Drizzle ORM
+  - **AI** Claude API (번역 · 요약 · 카테고리 분류)
+  - **MCP** Notion MCP 서버 (노션 저장)
+  - **Deploy** Vercel
+  - **Tool** Claude Code
 
 <br>
 
