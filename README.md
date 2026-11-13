@@ -133,7 +133,7 @@
 
 <br>
 
-#### 📰 AI 뉴스 수집기 프로젝트 `진행 중`
+#### 📰 [AI 뉴스 수집기 프로젝트](https://github.com/jwxyse/AI_NEWS) `진행 중`
 
 > 「Do it! 바이브 코딩」 책을 따라 기획부터 구현까지 진행하며 바이브코딩을 익히는 학습용 프로젝트
 
@@ -154,6 +154,8 @@
   - **MCP** Notion MCP 서버 (노션 저장)
   - **Deploy** Vercel
   - **Tool** Claude Code
+
+🔗 [Repository](https://github.com/jwxyse/AI_NEWS)
 
 <br>
 
