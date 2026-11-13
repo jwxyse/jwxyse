@@ -91,13 +91,29 @@
 
 ### 🍀 Projects 🍀
 
-#### 🐶 [개발하개 — 반려견 동반·건강 통합 서비스](https://github.com/ri3un/dogev-capstone-tips) `진행 중`
+#### 🐶 [개발하개 — LLM 기반 반려견 건강관리 · 외출 코스 추천 플랫폼](https://github.com/ri3un/dogev-capstone-tips) `진행 중`
 
-> 반려견 동반 장소 탐색부터 건강 기록까지 한 곳에서 관리할 수 있는 캡스톤 디자인 프로젝트
+> 흩어진 리뷰를 AI가 분석해 반려견 동반 조건을 정리하고, 말하듯 쓰면 건강 기록이 되는 반려견 생활 통합 웹 서비스
 
+- **성결대 컴퓨터공학과 전공종합설계 (산학협동형 캡스톤디자인)**
 - **기간** 2026.09 ~ 진행 중
 - **팀** 4인
 - **역할** 팀장 · 기획 · 백엔드
+- **주요 기능**
+  - 🗺️ **동반 장소 탐색** : 블로그 · TourAPI 리뷰를 매일 자동 수집 → LLM이 동반 조건 10가지(입장 크기, 실내 여부, 이동장 필요 등) 판정 → 네이버 지도에 내 반려견 기준 OK / 확인 필요 / 어려움 표시
+  - 📝 **대화형 건강 기록** : 글로 편하게 적으면 LLM이 식사 · 배변 · 증상 · 체중 등 카테고리로 자동 분류해 저장
+  - 🩺 **Multi-LLM AI 상담** : Gemini · Groq · OpenRouter 3곳의 답변을 비교 · 취합하고 최근 14일 기록을 함께 참고
+  - 🐾 **맞춤 외출 코스 추천** : 산책로 → 동반 카페 → 식당을 잇는 반려견 데이트 코스 추천 · 저장
+  - 📄 **병원용 PDF 리포트** : 기간별 건강 기록 요약과 체중 그래프를 담은 리포트 생성
+  - 🥣 **영양 가이드** : 지병 · 체중 맞춤 사료량과 음식 안내
+  - 👨‍👩‍👧 **가족 공유** : 초대 코드로 가족이 함께 반려견 기록 관리
+  - 🔐 카카오 · 네이버 소셜 로그인, 장소 정보 수정 요청 · 관리자 승인
+- **Stack**
+  - **Backend** Java 17 · Spring Boot 3.5 · Spring Security · OAuth2 · JWT · Spring Data JPA · MySQL
+  - **Frontend** React · TypeScript · Vite · Tailwind CSS
+  - **AI / API** Gemini · Groq · OpenRouter · 네이버 지도 API · TourAPI · 블로그 검색 API
+  - **PDF** Thymeleaf · Flying Saucer · JFreeChart
+  - **Infra** Docker Compose · Nginx · AWS EC2 · RDS · GitHub Actions
 
 🔗 [Repository](https://github.com/ri3un/dogev-capstone-tips)
 
