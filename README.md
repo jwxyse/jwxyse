@@ -220,3 +220,21 @@
 🔗 [Study Note](https://github.com/jwxyse/STUDY_NOTE/tree/main/SQLD)
 
 ---
+
+<br>
+
+### ✏️ Blog ✏️
+
+#### 🍯 [Velog — 공부 기록 블로그](https://velog.io/@jwxyse/posts)
+
+> 코드트리 문제풀이와 공부한 내용을 정리하는 블로그입니다. 알고리즘 풀이 과정, 전공 공부, 프로젝트 회고를 꾸준히 기록하고 있습니다.
+
+<a href="https://velog.io/@jwxyse/posts">
+  <img src="https://img.shields.io/badge/Visit%20my%20Velog-FFB6C1?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
+#### 📌 Recent Posts
+
+<!-- VELOG-POST-LIST:START -->
+- 곧 최근 글이 자동으로 표시돼요 🐣
+<!-- VELOG-POST-LIST:END -->
